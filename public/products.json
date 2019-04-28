@@ -1,0 +1,171 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "sku": 100,
+      "title": "Balance Box",
+      "description": "Balance Box",
+      "availableSizes": ["Gray", "Pink"],
+      "style": "Branco com listras pretas",
+      "price": 60.0,
+      "installments": 9,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 1,
+      "sku": 200,
+      "title": "Bend Shelf/Mirror",
+      "description": "Bend Shelf/Mirror",
+      "availableSizes": ["Gray"],
+      "style": "Preta com listras brancas",
+      "price": 160.0,
+      "installments": 9,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 300,
+      "title": "Coiled Counter Stool",
+      "description": "Coiled Counter Stool",
+      "availableSizes": ["Aqua", "Red", "Gray"],
+      "style": "Branco com listras pretas",
+      "price": 380.0,
+      "installments": 7,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 400,
+      "title": "Coiled Stool",
+      "description": "Coiled Stool",
+      "availableSizes": ["Gray"],
+      "style": "Preto com listras brancas",
+      "price": 280.0,
+      "installments": 7,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": 500,
+      "title": "Cowboy Coffee Kettle",
+      "description": "Cowboy Coffee Kettle",
+      "availableSizes": ["Black", "White"],
+      "style": "Branco com listras pretas",
+      "price": 90.0,
+      "installments": 12,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 600,
+      "title": "Crux Mortar and Pestle",
+      "description": "Crux Mortar and Pestle",
+      "availableSizes": ["Natural"],
+      "style": "Preto",
+      "price": 100.0,
+      "installments": 9,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 700,
+      "title": "Cup Lamp",
+      "description": "Cup Lamp",
+      "availableSizes": ["Mint", "Black"],
+      "style": "Branco",
+      "price": 180.0,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 7,
+      "sku": 800,
+      "title": "Hoop Magazine Rack",
+      "description": "Hoop Magazine Rack",
+      "availableSizes": ["Black", "Pink"],
+      "style": "Preto com listras brancas",
+      "price": 50.01,
+      "installments": 4,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 8,
+      "sku": 900,
+      "title": "Hover Storage Stool",
+      "description": "Hover Storage Stool",
+      "availableSizes": ["Black"],
+      "style": "Azul escuro",
+      "price": 250.0,
+      "installments": 4,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 9,
+      "sku": 1000,
+      "title": "Knob Spice Grinder",
+      "description": "Knob Spice Grinder",
+      "availableSizes": ["Black", "Natural","Aqua"],
+      "style": "",
+      "price": 40.0,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 10,
+      "sku": 1100,
+      "title": "Parallelogram Hooks",
+      "description": "Parallelogram Hooks",
+      "availableSizes": ["Black", "Natural", "Blue"],
+      "style": "",
+      "price": 10.0,
+      "installments": 9,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 11,
+      "sku": 1200,
+      "title": "Pleated Planter",
+      "description": "Pleated Planter",
+      "availableSizes": ["Natural"],
+      "style": "",
+      "price": 60.0,
+      "installments": 9,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    }
+  ]
+}
